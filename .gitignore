@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+project-dog-classification/data/
+convolutional-neural-networks/cifar-cnn/data/
+*.pt
+**/data
