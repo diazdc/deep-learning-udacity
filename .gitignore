@@ -1,5 +1,7 @@
 .ipynb_checkpoints
 project-dog-classification/data/
 convolutional-neural-networks/cifar-cnn/data/
+project-face-generation/processed-celeba-small.zip
+project-face-generation/processed_celeba_small/
 *.pt
 **/data
